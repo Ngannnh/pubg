@@ -49,43 +49,220 @@
     {
       "id": "weapon001",
       "type": "assault rifle",
-      "a_rifle": {}
+      "title": "AR",
+      "item": [
+        {
+          "id": "ar001",
+          "name": "AUG",
+          "details": "Modern Austrian bullpup assault rifle.",
+          "ammo": "5.56mm",
+          "damage": "43",
+          "clip": "30",
+          "time_bs": "0.086s",
+          "modes": [
+            {
+              "mode": "Auto"
+            },
+            {
+              "mode": "Single"
+            }
+          ],
+          "availability": {
+            "erangel": "Air drop only",
+            "miramar": "Air drop only",
+            "sanhok": "Air drop only"
+          }
+        },
+        {
+          "id": "ar002",
+          "name": "G36C",
+          "details": "Compact subcarbine variant of the German G36.",
+          "ammo": "5.56mm",
+          "damage": "43",
+          "clip": "30",
+          "time_bs": "0.086s",
+          "modes": [
+            {
+              "mode": "Auto"
+            },
+            {
+              "mode": "Single"
+            }
+          ],
+          "availability": {
+            "erangel": "No",
+            "miramar": "No",
+            "sanhok": "No"
+          }
+        },
+        {
+          "id": "ar003",
+          "name": "M16A4",
+          "details": "Burst fire assault rifle.",
+          "ammo": "5.56mm",
+          "damage": "43",
+          "clip": "30",
+          "time_bs": "0.1s",
+          "modes": [
+            {
+              "mode": "Burst"
+            },
+            {
+              "mode": "Single"
+            }
+          ],
+          "availability": {
+            "erangel": "Yes",
+            "miramar": "Yes",
+            "sanhok": "Yes"
+          }
+        },
+        {
+          "id": "ar004",
+          "name": "M416",
+          "details": "Germans do things properly.",
+          "ammo": "5.56mm",
+          "damage": "43",
+          "clip": "30",
+          "time_bs": "0.086s",
+          "modes": [
+            {
+              "mode": "Auto"
+            },
+            {
+              "mode": "Single"
+            }
+          ],
+          "availability": {
+            "erangel": "Yes",
+            "miramar": "Yes",
+            "sanhok": "Yes"
+          }
+        },
+        {
+          "id": "ar005",
+          "name": "QBZ",
+          "details": "Modern Chinese bullpup assault rifle.",
+          "ammo": "5.56mm",
+          "damage": "43",
+          "clip": "30",
+          "time_bs": "0.092s",
+          "modes": [
+            {
+              "mode": "Auto"
+            },
+            {
+              "mode": "Single"
+            }
+          ],
+          "availability": {
+            "erangel": "Yes",
+            "miramar": "Yes",
+            "sanhok": "Yes"
+          }
+        },
+        {
+          "id": "ar006",
+          "name": "QBZ",
+          "details": "Modern assault rifle.",
+          "ammo": "5.56mm",
+          "damage": "43",
+          "clip": "30",
+          "time_bs": "0.096s",
+          "modes": [
+            {
+              "mode": "Auto"
+            },
+            {
+              "mode": "Single"
+            }
+          ],
+          "availability": {
+            "erangel": "Yes",
+            "miramar": "Yes",
+            "sanhok": "No"
+          }
+        },
+        {
+          "id": "ar007",
+          "name": "Beryl M762",
+          "details": "Modern Polish assault rifle.",
+          "ammo": "7.62mm",
+          "damage": "47",
+          "clip": "30",
+          "time_bs": "0.086s",
+          "modes": [
+            {
+              "mode": "Burst"
+            },
+            {
+              "mode": "Auto"
+            },
+            {
+              "mode": "Single"
+            }
+          ],
+          "availability": {
+            "erangel": "Yes",
+            "miramar": "Yes",
+            "sanhok": "Yes"
+          }
+        }
+      ]
     },
     {
       "id": "weapon002",
-      "dm_rifle": {}
+      "type": "designated marksman rifle",
+      "title": "DMR",
+      "item": {}
     },
     {
       "id": "weapon003",
-      "s_rifle": {}
+      "type": "sniper rifle",
+      "title": "SR",
+      "item": {}
     },
     {
       "id": "weapon004",
-      "shotgun": {}
+      "type": "shotgun",
+      "title": "SH",
+      "item": {}
     },
     {
       "id": "weapon005",
-      "sub_gun": {}
-    },
-    {
-      "id": "weapon006",
-      "machine_gun": {}
-    },
-    {
-      "id": "weapon007",
-      "pistol": {}
-    },
-    {
-      "id": "weapon008",
-      "melee": {}
-    },
-    {
-      "id": "weapon009",
-      "miscellaneous": {}
+      "type": "sub machine gun",
+      "title": "SMG",
+      "item": {}
     },
     {
       "id": "weapon010",
-      "throwable": {}
+      "type": "light machine gun",
+      "title": "LMG",
+      "item": {}
+    },
+    {
+      "id": "weapon006",
+      "type": "pistols",
+      "title": "PI",
+      "item": {}
+    },
+    {
+      "id": "weapon007",
+      "type": "melee",
+      "title": "ME",
+      "item": {}
+    },
+    {
+      "id": "weapon008",
+      "type": "miscellaneous",
+      "title": "MI",
+      "item": {}
+    },
+    {
+      "id": "weapon009",
+      "type": "throwable",
+      "title": "TH",
+      "item": {}
     }
   ]
 }
