@@ -1,0 +1,48 @@
+{
+  "map": [
+    {
+      "id": "map001",
+      "name": "Erangel",
+      "size": "8x8",
+      "land_area": "51.47",
+      "water_area": "48.53",
+      "total_area": "64",
+      "vehicle": "633",
+      "weapon": "4689",
+      "total_loot": "24058"
+    },
+    {
+      "id": "map002",
+      "name": "Miramar",
+      "size": "8x8",
+      "land_area": "80.59",
+      "water_area": "19.41",
+      "total_area": "64",
+      "vehicle": "452",
+      "weapon": "7929",
+      "total_loot": "43343"
+    },
+    {
+      "id": "map003",
+      "name": "Sanhok",
+      "size": "4x4",
+      "land_area": "49.26",
+      "water_area": "50.74",
+      "total_area": "16",
+      "vehicle": "198",
+      "weapon": "4546",
+      "total_loot": "13889"
+    },
+    {
+      "id": "map004",
+      "name": "Vikendi",
+      "size": "6x6",
+      "land_area": "40.29",
+      "water_area": "59.71",
+      "total_area": "36",
+      "vehicle": "336",
+      "weapon": "5443",
+      "total_loot": "28614"
+    }
+  ]
+}
