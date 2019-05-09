@@ -44,5 +44,39 @@
       "weapon": "5443",
       "total_loot": "28614"
     }
+  ],
+  "weapon": [
+    {
+      "a_rifle": [
+        {}
+      ],
+      "dm_rifle": [
+        {}
+      ],
+      "s_rifle": [
+        {}
+      ],
+      "shotgun": [
+        {}
+      ],
+      "sub_gun": [
+        {}
+      ],
+      "machine_gun": [
+        {}
+      ],
+      "pistol": [
+        {}
+      ],
+      "melee": [
+        {}
+      ],
+      "miscellaneous": [
+        {}
+      ],
+      "throwable": [
+        {}
+      ]
+    }
   ]
 }
