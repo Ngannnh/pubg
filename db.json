@@ -382,6 +382,31 @@
             "miramar": "Yes",
             "sanhok": "Yes"
           }
+        },
+        {
+          "id": "ar007",
+          "name": "Beryl M762",
+          "details": "Modern Polish assault rifle.",
+          "ammo": "7.62mm",
+          "damage": "47",
+          "clip": "30",
+          "time_bs": "0.086s",
+          "modes": [
+            {
+              "mode": "Burst"
+            },
+            {
+              "mode": "Auto"
+            },
+            {
+              "mode": "Single"
+            }
+          ],
+          "availability": {
+            "erangel": "Yes",
+            "miramar": "Yes",
+            "sanhok": "Yes"
+          }
         }
       ]
     },
