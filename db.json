@@ -47,36 +47,45 @@
   ],
   "weapon": [
     {
-      "a_rifle": [
-        {}
-      ],
-      "dm_rifle": [
-        {}
-      ],
-      "s_rifle": [
-        {}
-      ],
-      "shotgun": [
-        {}
-      ],
-      "sub_gun": [
-        {}
-      ],
-      "machine_gun": [
-        {}
-      ],
-      "pistol": [
-        {}
-      ],
-      "melee": [
-        {}
-      ],
-      "miscellaneous": [
-        {}
-      ],
-      "throwable": [
-        {}
-      ]
+      "id": "weapon001",
+      "type": "assault rifle",
+      "a_rifle": {}
+    },
+    {
+      "id": "weapon002",
+      "dm_rifle": {}
+    },
+    {
+      "id": "weapon003",
+      "s_rifle": {}
+    },
+    {
+      "id": "weapon004",
+      "shotgun": {}
+    },
+    {
+      "id": "weapon005",
+      "sub_gun": {}
+    },
+    {
+      "id": "weapon006",
+      "machine_gun": {}
+    },
+    {
+      "id": "weapon007",
+      "pistol": {}
+    },
+    {
+      "id": "weapon008",
+      "melee": {}
+    },
+    {
+      "id": "weapon009",
+      "miscellaneous": {}
+    },
+    {
+      "id": "weapon010",
+      "throwable": {}
     }
   ]
 }
